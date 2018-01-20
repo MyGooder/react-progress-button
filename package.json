@@ -1,5 +1,5 @@
 {
-  "name": "react-progress-button",
+  "name": "@mygooder/react-progress-button",
   "version": "5.1.0",
   "description": "Simple react.js component for a inline progress indicator",
   "main": "lib/index.js",

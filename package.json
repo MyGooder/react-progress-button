@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mathieudutour/react-progress-button"
+    "url": "https://github.com/mygooder/react-progress-button"
   },
   "keywords": [
     "react",
@@ -41,10 +41,10 @@
     "javascript",
     "react-component"
   ],
-  "author": "Mathieu Dutour",
+  "author": "MyGooder",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mathieudutour/react-progress-button/issues"
+    "url": "https://github.com/mygooder/react-progress-button/issues"
   },
-  "homepage": "https://github.com/mathieudutour/react-progress-button"
+  "homepage": "https://github.com/mygooder/react-progress-button"
 }

@@ -120,7 +120,6 @@ const ProgressButton = createReactClass({
       this.state.currentState !== STATE.DISABLED &&
       this.state.currentState !== STATE.SUCCESS
     ) {
-      this.loading()
       this.props.onClick(e)
       return true
     }
